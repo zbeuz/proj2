@@ -1,4 +1,4 @@
-# 🏃‍♂️ Système de Gestion des Activités Sportives
+# 🏃‍♂️ Application Mobile de Gestion pour Centre Sportif
 
 ## 📋 Description du Projet
 
