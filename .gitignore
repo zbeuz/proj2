@@ -1,0 +1,16 @@
+# Fichiers d'environnement
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.staging
+
+
+# dotenv environment variables file
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+

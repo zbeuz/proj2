@@ -1,0 +1,1 @@
+ /Users/alexandredasilva/Desktop/aaforp/aforp/.dart_tool/flutter_build/832be433c63813e50ba11e2dbbc0042b/native_assets.json: 
